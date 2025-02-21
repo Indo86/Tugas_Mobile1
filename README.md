@@ -1,6 +1,8 @@
-# uji_coba_andro
+# Tugas 1 Praktikum Mobile
 
 A new Flutter project.
+Nama: Deni Norman Zaky
+NIM: 123220165
 
 ## Getting Started
 
